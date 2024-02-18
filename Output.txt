@@ -1,0 +1,10 @@
+Enter the number of layers: 2
+Enter the number of nodes in layer 0: 2
+Enter the number of nodes in layer 1: 1
+Enter weight for edge (0, 0) to (1, 0): 0.5
+Enter weight for edge (0, 1) to (1, 0): 0.3
+Enter layer from: 0
+Enter node from: 1
+Enter layer to: 1
+Enter node to: 0
+Weight for edge (0, 1) to (1, 0): 0.3
